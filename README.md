@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: [MARC AZAÑEDO I POL ABENZA]
 
 ## Descripció
 
